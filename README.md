@@ -14,13 +14,19 @@ Acreditamos que o BudApp é uma solução completa e eficiente para quem busca m
   <h2>Tela do sistema 🖥</h2>
   <img src="assets/telaDoSistema.png"/>
   
-  <h2 align='center'>Tecnologias</h2>
-  
+  <h2 align='center'>Tecnologias 👨‍💻</h2>
+  <br/>
   <div align='center'>
-     <img align='top' width="100px" src="assets/dashboard-vector.png"/>
-     <img align='top' width="100px" src="assets/dashboard-vector.png"/>
-     <img align='top' width="100px" src="assets/dashboard-vector.png"/>
-     <img align='top' width="100px" src="assets/dashboard-vector.png"/>
-  </div>
+     <img align='top' width="100px" src="assets/html.png"/>
+     <img align='top' width="100px" src="assets/css.png"/>
+     <img align='top' width="100px" src="assets/icons8-javascript-144.png"/>
+     <img align='top' width="100px" src="assets/react.png"/>
+     <img align='top' width="100px" src="assets/icons8-typescript-96.png"/>
+     <img align='top' width="100px" src="assets/php.png"/>
+     <img align='top' width="100px" src="assets/figma.png"/>
+  </div> <br/>
   
+  <div align="center">
+   <h2>Indentidade visual 🎨</h2>
+  </div> 
 </div>
