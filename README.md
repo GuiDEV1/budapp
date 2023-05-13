@@ -17,16 +17,29 @@ Acreditamos que o BudApp é uma solução completa e eficiente para quem busca m
   <h2 align='center'>Tecnologias 👨‍💻</h2>
   <br/>
   <div align='center'>
-     <img align='top' width="100px" src="assets/html.png"/>
-     <img align='top' width="100px" src="assets/css.png"/>
-     <img align='top' width="100px" src="assets/icons8-javascript-144.png"/>
-     <img align='top' width="100px" src="assets/react.png"/>
-     <img align='top' width="100px" src="assets/icons8-typescript-96.png"/>
-     <img align='top' width="100px" src="assets/php.png"/>
-     <img align='top' width="100px" src="assets/figma.png"/>
+     <img align='top' width="90px" src="assets/html.png"/>
+     <img align='top' width="90px" src="assets/css.png"/>
+     <img align='top' width="90px" src="assets/icons8-javascript-144.png"/>
+     <img align='top' width="90px" src="assets/react.png"/>
+     <img align='top' width="90px" src="assets/icons8-typescript-96.png"/>
+     <img align='top' width="90px" src="assets/php.png"/>
+     <img align='top' width="90px" src="assets/figma.png"/>
   </div> <br/>
   
   <div align="center">
    <h2>Indentidade visual 🎨</h2>
-  </div> 
+    <img width="100%" src="assets/paleta de cores1.png"/>      
+  </div> <br/>
+   <hr/> 
+   
+   <h2>Passo a passo de como testar o projeto na sua maquina 📜</h2>
+   <h3>Primeira etapa</h3>
+   
+   <ul>
+      <li>Baixar o Xamp</li>
+   </ul>
+   
+   <p>Basta seguir o passo a passo da istalação no seu desktop</p>
+   <img src="assets/"/>
+   
 </div>
