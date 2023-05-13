@@ -86,7 +86,19 @@ Acreditamos que o BudApp é uma solução completa e eficiente para quem busca m
          e escolher o arquivo <strong>budapp.sql</strong> não precisa mecher em nada so clicar em importa depois de importado seu banco ta pronto.
       </li>
    </ul> <br/>
-         <img  src="assets/php1.PNG"/>
-         <img  src="assets/php2.PNG"/>
+         <img  src="assets/php1.png"/> <hr/>
+         <img  src="assets/php1.png"/>
          
+   <h3>Ultima etapa:</h3>
+    <ul>
+      <li>
+         Falta pouco!. agora abra seu Vs code, abra a pasta que ta o front-end somente essa pasta!. abra o terminal como nas imagens abaixo primeiro execute o codigo <li>npm istall nome da sua pasta</li>.
+         Espere baixar todas dependências do app react quando termina execute o segundo comando <li>npm start</li> para executar o projeto e poder aproveitar nossa plataforma.
+      </li>
+   </ul>
+   <div align="center">
+    <img width="350px" align="top" src="assets/npm1.PNG"/>
+    <img width="350px" align="top" src="assets/npm2.PNG"/>
+   </div>
+   <h2>Se gostou do projeto favorite 🌟</h2>
 </div>
