@@ -39,7 +39,54 @@ Acreditamos que o BudApp é uma solução completa e eficiente para quem busca m
       <li>Baixar o Xamp</li>
    </ul>
    
-   <p>Basta seguir o passo a passo da istalação no seu desktop</p>
-   <img src="assets/"/>
+   <p>Basta seguir o passo a passo da instalação no seu desktop</p>
+   <img width="500px" src="assets/printXamp.PNG"/> <br/>
+   <a href="https://www.apachefriends.org/pt_br/download.html">Link de download</a>
    
+   <h3>Segunda etapa:</h3>
+   <ul>
+      <li>Baixar o repositório</li>
+   </ul>
+   
+   <p>
+      É muito simples. Clique no botão <strong>Code</strong> e depois escolha Dowload ZIP. É a opção mais simples e rápida.
+   </p>
+   <img src="assets/passo2.png"/> <br/> <br/>
+   
+   <p>
+      Obs: Para abrir esse arquivo zip você tem que ter algum programa que faça isso. Minha sugestão Winrar deixarei link abaixo.
+   </p>
+    <a href="https://www.win-rar.com/start.html?&L=9">Link para baixar o Winrar</a>
+   
+   <h3>Terceira etapa:</h3>
+   <ul>
+      <li>
+         Agora que você ja baixo os arquivos extraia em uma pasta nova no seu computador, de preferência aonde você não se perca. Depois abra ela. Você tera que fazer uns ajustes vamos la!. Primeiro crie uma
+         pasta com um nome que fique facil de você indentificar dentro dela vai ficar todo o front-end. Após criar selecione todos esses arquivos como na imagem abaixo. Agora como na imagem 2 selecione essas três 
+         pastas com exceção da pasta assets, e mova elas para pasta <strong>htdocs</strong> que está dentro da basta XAMP no disco aonde você baixo o programa.
+      </li>
+   </ul> <br/>
+   
+   <img src="assets/xamp1.PNG"/>  <hr/>
+   <img src="assets/xamp2.PNG"/> <hr/>
+   <img src="assets/xamp3.PNG"/> <br/>
+   
+   <h3>Quarta etapa:</h3>
+   <ul>
+      <li>
+         Agora vamos importa o arquivo sql no banco. Abra seu Xamp de preferência como administrador para evitar bugs, agora de start no apache para rodar o php, e no mySQL para 
+         rodar o banco de dados.
+      </li>
+   </ul>
+   <img width="500px" src="assets/xamp4.PNG"/> <br/>
+    <ul>
+      <li>
+        Após isso clique em Admin para abrir PHPadmin no seu navegador. Agora seguindo as imagens abaixo crie um novo banco com o mesmo nome da pasta budapp.
+         Se o banco não tiver o mesmo nome o sistema não ira fucionar. Proximo passo é ir na opção importa com o banco selecionado e abrir a pasta banco_de_dadosBudapp
+         e escolher o arquivo <strong>budapp.sql</strong> não precisa mecher em nada so clicar em importa depois de importado seu banco ta pronto.
+      </li>
+   </ul> <br/>
+         <img  src="assets/php1.PNG"/>
+         <img  src="assets/php2.PNG"/>
+         
 </div>
