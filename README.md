@@ -55,8 +55,10 @@ Acreditamos que o BudApp é uma solução completa e eficiente para quem busca m
    
    <p>
       Obs: Para abrir esse arquivo zip você tem que ter algum programa que faça isso. Minha sugestão Winrar deixarei link abaixo.
+      E outro lembrete também se caso você não tiver o Node JS instalado o react não vai funcionar deixarei o link dele também.
    </p>
-    <a href="https://www.win-rar.com/start.html?&L=9">Link para baixar o Winrar</a>
+    <a href="https://www.win-rar.com/start.html?&L=9">Link para baixar o Winrar</a> <br/>
+    <a href="https://nodejs.org/en/download">Link para baixar Node JS</a>
    
    <h3>Terceira etapa:</h3>
    <ul>
@@ -87,7 +89,7 @@ Acreditamos que o BudApp é uma solução completa e eficiente para quem busca m
       </li>
    </ul> <br/>
          <img  src="assets/php1.png"/> <hr/>
-         <img  src="assets/php1.png"/>
+         <img  src="assets/php2.png"/>
          
    <h3>Ultima etapa:</h3>
     <ul>
