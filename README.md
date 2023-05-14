@@ -65,7 +65,7 @@ Acreditamos que o BudApp é uma solução completa e eficiente para quem busca m
       <li>
          Agora que você ja baixo os arquivos extraia em uma pasta nova no seu computador, de preferência aonde você não se perca. Depois abra ela. Você tera que fazer uns ajustes vamos la!. Primeiro crie uma
          pasta com um nome que fique facil de você indentificar dentro dela vai ficar todo o front-end. Após criar selecione todos esses arquivos como na imagem abaixo. Agora como na imagem 2 selecione essas três 
-         pastas com exceção da pasta assets, e mova elas para pasta <strong>htdocs</strong> que está dentro da basta XAMP no disco aonde você baixo o programa.
+         pastas com exceção da pasta assets, e mova elas para pasta <strong>htdocs</strong> que está dentro da pasta XAMP no disco aonde você baixo o programa.
       </li>
    </ul> <br/>
    
