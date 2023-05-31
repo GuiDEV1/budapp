@@ -10,6 +10,12 @@
 A interface do BudApp foi projetada com base na usabilidade e simplicidade, para que qualquer pessoa possa usá-lo sem dificuldades. Além disso, o sistema é acessível de qualquer dispositivo com conexão à internet, permitindo que o usuário possa gerenciar suas finanças de qualquer lugar, a qualquer hora.
 Acreditamos que o BudApp é uma solução completa e eficiente para quem busca mais controle e praticidade na gestão financeira de seu negócio. Esperamos que possa experimentá-lo em breve e ver como ele pode ser útil para você e sua empresa.
   </p>
+   
+   <h2>Video de apresentação do projeto</h2> <span>Clique na imagem para assistir</span> <br/><br/>
+   
+   <div align="center">
+     <a href="https://youtu.be/-ZAR6JhDkoE"><img width="500px" src="assets/capaBud.jpg"></img></a>
+  </div>
   
   <h2>Tela do sistema 🖥</h2>
   <img src="assets/telaDoSistema.png"/>
