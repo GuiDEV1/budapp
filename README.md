@@ -11,7 +11,7 @@ A interface do BudApp foi projetada com base na usabilidade e simplicidade, para
 Acreditamos que o BudApp é uma solução completa e eficiente para quem busca mais controle e praticidade na gestão financeira de seu negócio. Esperamos que possa experimentá-lo em breve e ver como ele pode ser útil para você e sua empresa.
   </p>
    
-   <h2>Video de apresentação do projeto</h2> <span>Clique na imagem para assistir</span> <br/><br/>
+   <h2>Video de apresentação do projeto</h2> <span>Clique na imagem para assistir:</span> <br/><br/>
    
    <div align="center">
      <a href="https://youtu.be/-ZAR6JhDkoE"><img width="500px" src="assets/capaBud.jpg"></img></a>
