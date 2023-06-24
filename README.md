@@ -104,9 +104,7 @@ Acreditamos que o BudApp é uma solução completa e eficiente para quem busca m
          Espere baixar todas dependências do app react quando termina execute o segundo comando <li>npm start</li> para executar o projeto e poder aproveitar nossa plataforma.
       </li>
    </ul>
-   <div align="center">
-    <img width="350px" align="top" src="assets/npm1.PNG"/>
-    <img width="350px" align="top" src="assets/npm2.PNG"/>
-   </div>
+
+                                                             npm install     
    <h2>Se gostou do projeto favorite 🌟</h2>
 </div>
